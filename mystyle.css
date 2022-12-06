@@ -1,0 +1,30 @@
+body{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	background-color: darkcyan;
+}
+input{
+	width: 80px;
+	height: 50px;
+	margin: 5px 5px;
+	margin: 5px;
+	font-size: 35px;
+	background-color: navy;
+	color: white;
+	border-radius: 5px;
+	border: 0;
+}
+#myform{
+	margin: 5px 75vh;
+	padding-left: 20px;
+	/* margin-top: 5%; */
+}
+h1{
+	text-align: center;
+	margin: 20px auto;
+	color: gold;
+	padding: 5px 5px;
+	background-color: green;
+	width: 365px;
+}
